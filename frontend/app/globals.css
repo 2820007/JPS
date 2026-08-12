@@ -123,8 +123,9 @@
   }
   body {
     @apply bg-background text-foreground;
+    font-family: "Satoshi",sans-serif
   }
   html {
-    @apply font-sans;
+    @apply font-serif;
   }
 }
